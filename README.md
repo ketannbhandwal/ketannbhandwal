@@ -1,98 +1,105 @@
-# 👋 Hi, I'm Ketan
+<h1 align="center">👋 Hi, I'm Ketan Bhandwal</h1>
+<h3 align="center">
+Founder @ Veltrix Studio | Full Stack MERN Developer | Next.js & React Native Specialist
+</h3>
 
-### 🚀 Founder, Veltrix Studio | MERN Stack Developer  
-### ⚡ Building Fast & SEO-Optimized Web & Mobile Apps (Next.js, React Native)
+<p align="center">
+Building Fast, Scalable & SEO-Optimized Web and Mobile Applications 🚀
+</p>
 
----
-
-## 🧠 About Me
-
-I’m a passionate **Full-Stack Developer** specializing in the **MERN stack** with strong expertise in **Next.js, React Native, TypeScript, and Python**.
-
-I build **high-performance, scalable, and AI-powered applications** that solve real-world problems.
-
-> Currently working on voice-based AI apps, real-time communication platforms, and premium freelance projects for global clients.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ketannx&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
-## 🛠 Tech Stack
+## 🧠 About Ketan Bhandwal
 
-### ⚡ Frontend
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge)
-![Framer Motion](https://img.shields.io/badge/-Framer_Motion-black?logo=framer&logoColor=white&style=for-the-badge)
+I am a **Full Stack MERN Developer from India**, Founder of **Veltrix Studio**, specializing in:
+
+- High-performance **Next.js applications**
+- SEO-optimized websites
+- AI-powered web platforms
+- Real-time WebRTC applications
+- Scalable React Native mobile apps
+
+I build modern, user-centric digital products for startups, creators, and global clients.
+
+> Currently developing AI-based voice platforms, SaaS tools, and real-time communication systems.
+
+---
+
+## 🚀 Services I Offer
+
+- 🔥 Custom Business Websites (Next.js)
+- 📈 SEO-Optimized Agency Platforms
+- 🛒 Full E-Commerce Development (MERN)
+- 📱 Cross-Platform Mobile Apps (React Native)
+- 🤖 AI Integration (Gemini, Voice AI)
+- ⚡ Real-Time Apps (WebRTC + Socket.IO)
+
+---
+
+## 🛠️ Tech Stack
+
+### ⚡ Frontend Development
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/FramerMotion-black?style=for-the-badge&logo=framer&logoColor=white)
 
 ---
 
 ### 🔥 Backend & Database
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
-![Express.js](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge)
-![JWT](https://img.shields.io/badge/-JWT-black?logo=jsonwebtokens&logoColor=white&style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
 ---
 
-### 🤖 AI & Mobile
-![Gemini AI](https://img.shields.io/badge/-Gemini_AI-blueviolet?style=for-the-badge)
-![React Native](https://img.shields.io/badge/-React_Native-20232a?logo=react&logoColor=white&style=for-the-badge)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+### 🤖 AI & Mobile Development
+![React Native](https://img.shields.io/badge/React_Native-20232a?style=for-the-badge&logo=react&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Gemini AI](https://img.shields.io/badge/Gemini_AI-blueviolet?style=for-the-badge)
 
 ---
 
 ## 💼 Featured Projects
 
-### 🚀 Harshming — Digital Agency Platform  
-Premium SEO-focused agency website built for a real client.
+### 🚀 Harshming — Digital Agency Platform
+- Fully SEO-Optimized
+- High-performance animations
+- Lead generation system
+- Built for real client
 
-**Highlights**
-- High-performance UI/UX  
-- Modern animations  
-- Fully SEO optimized  
-- Lead generation system  
-
-**Stack:** Next.js, Tailwind CSS, Framer Motion, Node.js  
+**Stack:** Next.js, Tailwind CSS, Node.js
 
 ---
 
-### 🏠 SwiftShiftShine — Home Cleaning Platform (Canada)
+### 🏠 SwiftShiftShine — Service Booking Platform (Canada)
+- Real-time booking engine
+- Dynamic pricing logic
+- Admin dashboard
+- Automated email workflows
 
-**Highlights**
-- Real-time booking system  
-- Dynamic pricing  
-- Admin dashboard  
-- Automated email notifications  
-
-**Stack:** React, Node.js, Express, MongoDB  
+**Stack:** React, Express, MongoDB
 
 ---
 
-### 🛒 HimanShop — Portfolio + E-Commerce
+### 🛒 HimanShop — E-Commerce + Portfolio
+- Secure Stripe checkout
+- JWT authentication
+- Redux state management
+- Admin control panel
 
-**Highlights**
-- Secure checkout (Stripe)  
-- JWT authentication  
-- Admin dashboard  
-- Redux state management  
-
-**Stack:** MERN Stack, Redux, Stripe  
+**Stack:** MERN Stack
 
 ---
 
-### 🎮 CGaming — Gaming Brand Hub
-
-**Highlights**
-- YouTube API integration  
-- Live stream updates  
-- Community-focused UI  
-
-**Stack:** Next.js, Firebase, Tailwind CSS  
-
----
-
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ketannx&show_icons=true&theme=tokyonight" />
@@ -102,22 +109,24 @@ Premium SEO-focused agency website built for a real client.
 
 ---
 
-## 🌍 What I’m Building
+## 🌍 Currently Building
 
-- AI-powered SaaS tools  
-- Voice-based social platforms  
-- Real-time WebRTC applications  
-- Scalable freelance client systems  
+- AI-powered SaaS tools
+- Voice-based social applications
+- Real-time video calling platforms
+- Scalable freelance client systems
 
 ---
 
 ## 📫 Connect With Me
 
-[![Instagram](https://img.shields.io/badge/-@ketann.js-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://instagram.com/ketann.js)  
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ketan_Bhandwal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR-LINKEDIN-USERNAME](https://www.linkedin.com/in/ketan-bhandwal-10b8993a0/?originalSubdomain=in))
 
----
+[![Instagram](https://img.shields.io/badge/Instagram-@ketann.js-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ketann.js)
 
-## ⚡ Motto
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
-> Code like a beast. Build like a founder. Think like a brand.
+## ⚡ Personal Brand Statement
+
+> Ketan Bhandwal — Full Stack MERN Developer & Founder of Veltrix Studio  
+> Building Fast, SEO-Optimized & AI-Powered Digital Products.
