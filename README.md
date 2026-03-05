@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Ketan Bhandwal</h1>
 <h3 align="center">
-Founder @ Veltrix Studio | Full Stack MERN Developer | Next.js & React Native Specialist
+Founder @ Valtrix Studio | Full Stack MERN Developer | Next.js & React Native Specialist
 </h3>
 
 <p align="center">
@@ -120,7 +120,7 @@ I build modern, user-centric digital products for startups, creators, and global
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ketan_Bhandwal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR-LINKEDIN-USERNAME](https://www.linkedin.com/in/ketan-bhandwal-10b8993a0/?originalSubdomain=in))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ketan_Bhandwal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valtrixstudiocom/)
 
 [![Instagram](https://img.shields.io/badge/Instagram-@ketann.js-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ketann.js)
 
